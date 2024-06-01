@@ -4,7 +4,7 @@
 TODDLER is a web application aimed at educating children about their rights under the law. It consists of three main pages crafted with HTML, CSS, and JavaScript.
 
 ## Site Visit Link
-- [Visit TODDLER](https://afzalkhan7.github.io/Toddler/)
+- [Visit TODDLER](https://afzalkhanofficial.github.io/Toddler/)
 
 ## Features
 ### Home Page
